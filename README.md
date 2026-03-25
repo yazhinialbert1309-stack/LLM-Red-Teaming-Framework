@@ -22,8 +22,4 @@ In this project, I performed a **Red Teaming** operation on a **GPT-2 model** (v
 3. Run the attack script: `python attack.py`
 4. Open the generated `attack_report.html` in your browser.
 
-## 📊 Results Snapshot
-*(Insert your screenshot here)*
-
----
 **Disclaimer:** This project is for educational and security research purposes only.
